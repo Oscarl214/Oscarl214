@@ -30,7 +30,7 @@ My Personal Repo
 - ⚡ Fun fact: I have worked on some AR projects in the past.   
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
