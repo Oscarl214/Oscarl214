@@ -75,14 +75,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=oscarleal234&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=oscarl214&&style=flat-square" align="center" />
