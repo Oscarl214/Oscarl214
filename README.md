@@ -54,7 +54,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=oscarl214&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+<env PAT_1=oscarl214>
+<img src="https://github-readme-stats.vercel.app/api?username=oscarl214&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
