@@ -7,7 +7,7 @@
 ### <div align="center">Hi, I'm Oscar Leal, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on Cohort Retort (hhttps://github.com/Oscarl214/Cohort-Retort)  
+- 🔭 I’m currently working on Cohort Retort (https://github.com/Oscarl214/Cohort-Retort)  
   
 
 - 🌱 I’m currently learning AWS and Redux for React  
