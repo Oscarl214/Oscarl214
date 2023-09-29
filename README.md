@@ -7,7 +7,7 @@
 ### <div align="center">Hi, I'm Oscar Leal, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on Cohort Retort (https://github.com/Oscarl214/Cohort-Retort)  
+- 🔭 I’m currently working on Crowd Query ([https://github.com/Oscarl214/Cohort-Retort](https://github.com/Oscarl214/CrowdQuery))  
   
 
 - 🌱 I’m currently learning AWS and Redux for React  
@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I studied abroad in Beijing China & Dubai during my undergrad years 🇨🇳🇦🇪  
+- ⚡ Fun fact: I studied abroad in Beijing China & Dubai during my undergrad years
   
 
 <br/>  
