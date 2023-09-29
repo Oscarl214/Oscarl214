@@ -7,7 +7,7 @@
 ### <div align="center">Hi, I'm Oscar Leal, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on Crowd Query ([https://github.com/Oscarl214/Cohort-Retort](https://github.com/Oscarl214/CrowdQuery))  
+- 🔭 I’m currently working on Crowd Query ([https://github.com/Oscarl214/CrowdQuery](https://github.com/Oscarl214/CrowdQuery))  
   
 
 - 🌱 I’m currently learning AWS and Redux for React  
