@@ -7,10 +7,10 @@
 ### <div align="center">Hi, I'm Oscar Leal, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on Crowd Query ([https://github.com/Oscarl214/CrowdQuery](https://github.com/Oscarl214/CrowdQuery))  
+- 🔭 I’m currently working on my latest Portfolio ([https://github.com/Oscarl214/portfolio-v2]([https://github.com/Oscarl214/CrowdQuery](https://github.com/Oscarl214/portfolio-v2)))  
   
 
-- 🌱 I’m currently learning AWS and Redux for React  
+- 🌱 I’m currently learning Next Js 14
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
