@@ -7,9 +7,9 @@
 ### <div align="center">Hi, I'm Oscar Leal, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 👁️ Check Out my Portfolio ([[https://www.osworld.dev/])
+- 👁️ Check Out my Portfolio ([[https://www.osworld.dev/]])
 
-- 🔭 I’m currently working on my latest Portfolio ([[https://github.com/Oscarl214/portfolio-v2])  
+- 🔭 I’m currently working on my latest Portfolio ([[https://github.com/Oscarl214/portfolio-v2]])  
   
 
 - 🌱 I’m currently learning Next Js 14
