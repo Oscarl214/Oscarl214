@@ -9,7 +9,7 @@
 
 - 👁️ Check out my Portfolio (https://www.osworld.dev/)
 
-- 🔭 I’m currently working on a mobile Bartending WebPage (Coming Soon..)  
+- 🔭 I’m currently working on a Bartending Booking WebPage (Coming Soon..)  
   
 
 - 🌱 I’m currently learning Next Js 14
