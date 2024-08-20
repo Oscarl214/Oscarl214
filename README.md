@@ -9,10 +9,10 @@
 
 - 👁️ Check out my Portfolio (https://www.osworld.dev/)
 
-- 🔭 I’m currently working on a Bartending Booking WebPage (Coming Soon..)  
+- 🔭 I’m currently working on a Bartending Booking WebPage (dabevidasproject.me/)  
   
 
-- 🌱 I’m currently learning Next Js 14
+- 🌱 I’m currently learning Twillio for sms + Prisma
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
