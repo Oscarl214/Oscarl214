@@ -9,9 +9,10 @@
 
 - 👁️ Check out my Portfolio (https://www.osworld.dev/)
 
-- 🔭 I’m currently working on a Bartending Booking WebPage ([dabevidasproject.me/](https://www.vidabevidasproject.me/))  
+- 🔭 Last Full Stack Project Completed: ([dabevidasproject.me/](https://www.vidabevidasproject.me/))  
   
-
+- 🧑‍💻 Currently working on a personal project, LealDirectory: (https://lealvechiledirectory.vercel.app/)
+  
 - 🌱 I’m currently learning Twillio for sms + Prisma
   
 
