@@ -9,7 +9,7 @@
 
 - 👁️ Check out my Portfolio (https://www.osworld.dev/)
 
-- 🔭 I’m currently working on a Bartending Booking WebPage (dabevidasproject.me/)  
+- 🔭 I’m currently working on a Bartending Booking WebPage ([dabevidasproject.me/](https://www.vidabevidasproject.me/))  
   
 
 - 🌱 I’m currently learning Twillio for sms + Prisma
