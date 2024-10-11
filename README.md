@@ -7,6 +7,8 @@
 ### <div align="center">Hi, I'm Oscar Leal, a full-time full-stack developer 👨‍💻 </div>  
   
 
+- 📓 Check out my Blog, where I share my story so far (https://www.osworld.dev/blog/66df958a15ebda87035dc3ad)
+  
 - 👁️ Check out my Portfolio (https://www.osworld.dev/)
 
 - 🔭 Last Full Stack Project Completed: ([dabevidasproject.me/](https://www.vidabevidasproject.me/))  
