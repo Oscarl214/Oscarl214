@@ -11,11 +11,11 @@
   
 - 👁️ Check out my Portfolio (https://www.osworld.dev/)
 
-- 🔭 Last Full Stack Project Completed: ([dabevidasproject.me/](https://www.vidabevidasproject.me/))  
+- 🔭 Last Project Completed: ([[pintechcollective.com](https://www.pintechcollective.com/)/]())  
   
-- 🧑‍💻 Currently working on a personal project, LealDirectory: (https://lealvechiledirectory.vercel.app/)
+- 🧑‍💻 Currently working on a react native project, SplitTrip: ((https://github.com/Oscarl214/SplitTrip))
   
-- 🌱 I’m currently learning Twillio for sms + Prisma
+- 🌱 I’m currently learning React Native
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
